@@ -1,4 +1,4 @@
-NAME	= 2018-10-04-ggplot2-sf-3
+NAME	= 2019-03-31-mapedit_leafpm
 
 all:
 	vi $(NAME).Rmd
